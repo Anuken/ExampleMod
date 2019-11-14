@@ -8,3 +8,5 @@ Simply download this repository as a zip, then import it through the `Mods` dial
 ## Contributing
 
 Feel free to submit more example content to this repository. For example sprites, I recommend re-coloring existing blocks and using the existing Mindustry palette.
+
+you can find all of the information about each block, item, etc [here](https://github.com/Anuken/Mindustry/tree/master/core/src/io/anuke/mindustry/content "Mindustry Content Files"), however it is written in java, if you do not understand java, someone in the issues section may be able to help you.
