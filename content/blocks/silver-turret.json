@@ -1,28 +1,28 @@
 {
 	"type": "DoubleTurret",
-	"name": "Silver Turret",
+	"name": "Hacked Silver Turret",
 	"description": "Sprays useless silver bullets everywhere. What a mess.",
-	"health": 200,
+	"health": 200000000,
 	"size": 1,
-	"reload": 4,
-	"range": 100,
+	"reload": 0,
+	"range": 100000000,
 	"ammoUseEffect": "shellEjectSmall",
-	"inaccuracy": 30,
-	"rotatespeed": 12,
+	"inaccuracy": 0,
+	"rotatespeed": 900,
 	"ammo": {
 		"silver": {
 			"speed": 3.0,
 			"damage": 3,
-			"bulletWidth": 7,
+			"bulletWidth": 700,
 			"bulletHeight": 9,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-			"ammoMultiplier": 5
+			"ammoMultiplier": 999999
 		}
 	},
 	"requirements": [
-		{ "item": "silver", "amount": 40 },
-		{ "item": "copper", "amount": 70 }
+		{ "item": "silver", "amount": 1 },
+		{ "item": "copper", "amount": 1 }
 	],
 	"category": "turret",
 	"research": "duo"
